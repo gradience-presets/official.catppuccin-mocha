@@ -1,1 +1,1 @@
-# official.catppucin-mocha
+# official.catppuccin-mocha
